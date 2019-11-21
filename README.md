@@ -1,7 +1,7 @@
 # Insider-Trail-Project
 Cricket League Simulation Project In Laravel
 
-Just Copy The Vendor File Into Your Local Machine Server
+Just Copy The .env zip  File Into Your Local Machine Server
 Please Set Your Database Connection In The .env File
 Please Run The Command
 php artisan migrate
